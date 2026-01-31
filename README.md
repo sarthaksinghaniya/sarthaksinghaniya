@@ -101,10 +101,11 @@ My long-term goal is to become a **top-tier AI/ML Engineer**, contribute to impa
 * 🥈 **Top 2 – National Repo Robot Hackathon (DAIICT)**
 * 🧠 Participant – **UNeScO International Youth Hackathon**
 * 🏁 Finalist – **NIT Silchar Hackathon (Round 2)**
+* 🏁 Finalist – **IIT Patna Hackathon (Pitch It Up)**
 * 💡 Participant – **IIM Mumbai Shark Tank Event**
 * 🎤 **International MUN Award Winner**
 * 🧑‍💻 Python Developer Intern – **WojeCt Technologies**
-* 🏅 Active participant in 2025 **12+ national & 1 international hackathons**
+* 🏅 Active participant in 2025 **25+ national & 1 international hackathons**
 
 ---
 
