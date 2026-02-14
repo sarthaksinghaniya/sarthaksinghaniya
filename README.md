@@ -90,7 +90,6 @@ My mission is to become a top-tier AI/ML Engineer, contribute to impactful produ
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sarthaksinghaniya&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthaksinghaniya&layout=compact&theme=dark)
 
 ---
 
