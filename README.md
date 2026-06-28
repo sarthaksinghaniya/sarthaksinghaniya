@@ -1,6 +1,6 @@
 # Sarthak Singhaniya | AI/ML Engineer & Full-Stack Developer
 
-� **Second-year Undergraduate | BBD University**  
+� **Third-year Undergraduate | BBD University**  
 🚀 **Building AI-driven solutions | Hackathon Enthusiast | Startup Mindset**
 
 ---
@@ -110,13 +110,14 @@ My mission is to become a top-tier AI/ML Engineer, contribute to impactful produ
 ## 🏆 Achievements & Hackathons
 
 - 🥈 **Top 2** – National Repo Robot Hackathon (DAIICT)
+- 🥇 **Top 1** – National IIT MANDI Hackathon
 - 🌍 **Participant** – UNESCO International Youth Hackathon
 - 🏁 **Finalist** – NIT Silchar Hackathon (Round 2)
 - 🏁 **Finalist** IIT Patna Hackathon (Pitch it up)
 - 💡 **Participant** – IIM Mumbai Shark Tank Event
 - 🎤 **International MUN Award Winner** – "High Commendation Delegate"
 - 🧑‍💻 **Python Developer Intern** – WojeCt Technologies
-- 🏅 **Active participant** in 25+ national & 1 international hackathons (2025)
+- 🏅 **Active participant** in 70+ national & 5 international hackathons (2025-2026)
 
 ---
 
